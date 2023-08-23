@@ -47,5 +47,5 @@ Contributions are welcome! If you encounter a problem, have a suggestion, or wan
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
+This project is licensed under the [MIT]([https://choosealicense.com/licenses/mit/](https://github.com/FelipeFerraz98/password-generator-and-manager/blob/main/LICENSE)https://github.com/FelipeFerraz98/password-generator-and-manager/blob/main/LICENSE) license.
 
